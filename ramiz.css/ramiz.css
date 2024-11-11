@@ -1,0 +1,23 @@
+.ramiz{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.ramiz2{
+    width: 500px;
+}
+.ramiz3{
+    width: 400px;
+}
+.ramiz4{
+    width: 400px;
+}
+.ramiz5{
+    width: 400px;
+}
+.ramiz6{
+width: 400px;
+
+}
